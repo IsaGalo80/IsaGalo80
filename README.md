@@ -12,8 +12,7 @@
 <p>💬 Acerca de mi... Soy tenaz, nunca bajo los brazos y siempre busco nuevos desafíos. Disfruto de trabajar en equipo, pero también soy capaz de desenvolverme de forma individual.</p>
 
 
-- 📫 Puedes contactarme... **isagalo1980@outlook.com**
--                          **https://github.com/IsaGalo80**
+- 📫 Puedes contactarme... **isagalo1980@outlook.com** | https://github.com/IsaGalo80
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
