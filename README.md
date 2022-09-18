@@ -12,7 +12,7 @@
 <p>💬 Acerca de mi... Soy tenaz, nunca bajo los brazos y siempre busco nuevos desafíos. Disfruto de trabajar en equipo, pero también soy capaz de desenvolverme de forma individual.</p>
 
 
-- 📫 Puedes contactarme... **isagalo1980@outlook.com** | https://github.com/IsaGalo80
+- 📫 Puedes contactarme... **isagalo1980@outlook.com** 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -25,6 +25,9 @@
 </a></a>
 <a href="https://github.com/IsaGalo80">
   <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white">
+</a>
+<a href="https://github.com/IsaGalo80">
+  <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white"> 
 </a></p>
 
 ### Current commits
