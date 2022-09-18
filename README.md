@@ -4,13 +4,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=isagalo80&label=Profile%20views&color=0e75b6&style=flat" alt="isagalo80" /> </p>
 
-<p>🌎Vivo en España.</p>
 <p>🔭 Estoy trabajando en mejorar el código... Todo-List-API-with-Python-Flask-Interactive</p>
 <p>🌱 Hoy en día mi prioridad es seguir aprendiendo más lenguajes... Angular, Java, Rubi...</p>
 <p>🤝 Estoy buscando ayuda con... Build-a-StarWars-REST-API1</p>
 <p>👯 Estoy colaborando en... first-contributions</p>
 <p>💬 Acerca de mi... Soy tenaz, nunca bajo los brazos y siempre busco nuevos desafíos. Disfruto de trabajar en equipo, pero también soy capaz de desenvolverme de forma individual.</p>
-
 
 - 📫 Puedes contactarme... **isagalo1980@outlook.com** 
 
@@ -33,7 +31,5 @@
 ### Current commits
 [![Snake animation](https://github.com/ArielCalisaya/ArielCalisaya/blob/output-snake-commits/github-contribution-grid-snake.svg)](https://github.com/IsaGalo80)
 
-<p align = "center">
-  <img src = "https://github-readme-stats.vercel.app/api?username=IsaGalo80&show_icons=true&theme=bear" width = 400>
-  <img src = "https://github-readme-streak-stats.herokuapp.com?user=IsaGalo80&theme=dark&hide_border=true" width = 400>
-</p>
+![Github Stats](https://github-readme-stats.vercel.app/api?username=IsaGalo80&count_private=true&show_icons=true&include_all_commits=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IsaGalo80&hide=TeX&layout=compact)
